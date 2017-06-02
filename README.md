@@ -1,7 +1,7 @@
 # alurapic
-Angular  1 - Alura Course (e-learning): 
-Create powerful webapps - 
-MVC JavaScript framework;
+Angular  1 - Alura Course (e-learning):
+- Create powerful webapps - 
+- MVC JavaScript framework;
 - Complete single page applications;
 - Data binding, directives, routes and views;
 - Integrating with the NodeJS backend.
